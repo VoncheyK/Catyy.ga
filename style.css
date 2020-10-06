@@ -9,3 +9,15 @@ body {
     font-weight: 20;
     color: white;
 }
+
+.btns {
+    text-align: center;
+}
+
+.inv {
+    size: 20px;
+    font-family: arial;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
